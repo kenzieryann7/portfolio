@@ -41,7 +41,7 @@ My involvement with FIRST Robotics has also brought an abundance of volunteering
 
 ![FIRST Robotics](media/robotics.gif)
 
-## Work Projects
+## Work Project Samples
 
 ### Atlas
 
