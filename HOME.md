@@ -13,7 +13,7 @@ development. I taught myself how to create simple websites using HTML and JS wit
 Throughout this experience, I have been able to grasp the fundamental concepts of AGILE methodology, use a framework such as Vue.js, and develop traditional practices when creating and designing a website. Also, I have
 some experience with SQL and database design.
 
-I first became introduced into coding in high school when I joined FIRST Robotics (For Inspiration and Recognition of Science and Technology). I was the lead programmer who was mostly self-taught. I realized all that you can do with code and it really intrigued me. My involvement in robotics as opened up endless opportunities. It has helped me find my passion in technology.
+I first became introduced into coding in high school when I joined FIRST Robotics (For Inspiration and Recognition of Science and Technology). I was the lead programmer who was mostly self-taught. I realized all that you can do with code and it really intrigued me. My involvement in robotics has opened up endless opportunities. It has helped me find my passion in technology.
 
 On my free time, I like to develop simple games that are easily played through the
 browser. As they say, practice, practice, practice. Diving into different type of games has allowed me to be open minded about how to solve a problem. I've realized that there are various ways to solve just one problem and I think this is why I have enjoyed being a developer. The never-ending possibilities excite me. I love to learn and get more experience where I can. Aside from coding, I enjoy the outdoors such as hiking, fishing, and camping. I also am into writing and gaming.
