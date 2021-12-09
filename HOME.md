@@ -6,7 +6,7 @@ I aspire to use code to help aid learning and further science.
 
 <img style="float: right; border: 3px solid black" src="media/updated-pic.jpg">
 I am currently pursuing a bachelor's degree in Computer Science at
-Oregon State Univeristy. __GO BEAVS!__ I
+Oregon State Univeristy. <strong>GO BEAVS!</strong> I
 started my journey here at OSU in 2018 and jumped right into web
 development. I taught myself how to create simple websites using HTML and JS with a touch of CSS. I currently work with OSU Ecampus as a Student Web Developer on their Custom Team. This opportunity has allowed me to hone my development skills.
 
