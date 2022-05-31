@@ -6,14 +6,14 @@ I aspire to use code to help aid learning and further science.
 
 <img style="float: right; border: 3px solid black" src="media/updated-pic.jpg">
 I am currently pursuing a bachelor's degree in Computer Science at
-Oregon State Univeristy. <strong>GO BEAVS!</strong> I
+Oregon State Univeristy. **GO BEAVS!** I
 started my journey here at OSU in 2018 and jumped right into web
 development. I taught myself how to create simple websites using HTML and JS with a touch of CSS. I currently work with OSU Ecampus as a Student Web Developer on their Custom Team. This opportunity has allowed me to hone my development skills.
 
 Throughout this experience, I have been able to grasp the fundamental concepts of AGILE methodology, use a framework such as Vue.js, and develop traditional practices when creating and designing a website. Also, I have
 some experience with SQL and database design.
 
-I first became introduced into coding in high school when I joined FIRST Robotics (For Inspiration and Recognition of Science and Technology). I was the lead programmer who was mostly self-taught. I realized all that you can do with code and it really intrigued me. My involvement in robotics has opened up endless opportunities. It has helped me find my passion in technology.
+I first became introduced into coding in high school when I joined FIRST Robotics (For Inspiration and Recognition of Science and Technology). I was the lead programmer who was mostly self-taught. I realized all that you can do with code and it really intrigued me. My involvement in robotics as opened up endless opportunities. It has helped me find my passion in technology.
 
 On my free time, I like to develop simple games that are easily played through the
 browser. As they say, practice, practice, practice. Diving into different type of games has allowed me to be open minded about how to solve a problem. I've realized that there are various ways to solve just one problem and I think this is why I have enjoyed being a developer. The never-ending possibilities excite me. I love to learn and get more experience where I can. Aside from coding, I enjoy the outdoors such as hiking, fishing, and camping. I also am into writing and gaming.
@@ -41,26 +41,23 @@ My involvement with FIRST Robotics has also brought an abundance of volunteering
 
 ![FIRST Robotics](media/robotics.gif)
 
-## Work Project Samples
+## Work Projects
 
 ### Atlas
 
 Atlas is a timeline map interactive where a user can submit an event, giving a description and media if any. Once submitted, it will populate in the list sidebar and when selected it will highlight that particular region on the map.
-<br>
 
 ![Atlas Visual](media/atlas.gif)
 
 ### Phylogenetic Tree
 
 This interactive allows the user to edit/insert new nodes into the phylogenetic tree. Where the tree shows the evolutionary relationships between biological species and organisms based on physical and genetic characteristics. This application takes advantage of the **[D3.js](https://d3js.org/)** Javascript Library.
-<br>
 
 ![Phylogenetic Tree Visual](media/tree.gif)
 
 ### Glossary
 
 Glossary is a simple interactive where the user may enter terms and definitions. An admin, such as an instructor, can approve, edit, or remove entries. These entries may be exported via Google Sheets if the admin would like to save all entries.
-<br>
 
 ![Glossary Visual](media/glossary.gif)
 
@@ -74,11 +71,20 @@ This application was created with Vue and Bootstrap 5. I originally created this
 
 ![Pokédex Database Visual](media/pokedex.gif)
 
+### Pulsar
+An incremental idle game played through your web browser. Still currently in development.
+
+**Spaceships created using Adobe Illustrator**
+![Spaceship Showcase](media/ship-showcase.png)
+
 <h3>*MORE COMING SOON*</h3>
 
 ## Résumé
 
-![Résumé](media/resume.PNG)
+![Résumé](media/resume.png)
+<a href="media/resume.png" download>
+  Download Résumé
+</a>
 
 ## Contact Me
 
