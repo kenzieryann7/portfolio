@@ -82,7 +82,8 @@ An incremental idle game played through your web browser. Still currently in dev
 ## Résumé
 
 ![Résumé](media/resume.PNG)
-<a href="media/resume.png" download>
+
+<a href="media/resume.PNG" download>
   Download Résumé
 </a>
 
