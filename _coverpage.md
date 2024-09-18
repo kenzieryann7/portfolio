@@ -11,7 +11,7 @@
 - Vue.js, Bootstrap, JS, C/C++, HTML/CSS, Adobe Illustrator
 - AGILE Project Management
 
-[Continue](#introduction)
+[Continue](#about-me)
 
 <!-- background color -->
 

@@ -1,1 +1,4 @@
-- [Home](/)
+- [Personal Overview](/)
+- [Experience](/work-experience.md)
+- [Work Projects](/work-projects.md)
+- [Personal Projects](/personal-projects.md)
