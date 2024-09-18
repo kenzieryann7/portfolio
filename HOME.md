@@ -1,98 +1,94 @@
 # Introduction
 
-**Aspiration**
+<img class="img-border" src="media/updated-pic.jpg">
 
-I aspire to use code to help aid learning and further science.
+I earned a Bachelor's degree in Computer Science from Oregon State University in 2023, starting my journey in 2018 with a focus on web development. My passion lies in coding and creating interactive web applications. I have hands-on experience with HTML, CSS, JavaScript, Vue.js, and other technologies. Even with five years of experience, I am continually seeking opportunities to expand my skill set and embrace new technologies.
 
-<img style="float: right; border: 3px solid black" src="media/updated-pic.jpg">
-I am currently pursuing a bachelor's degree in Computer Science at
-Oregon State Univeristy. **GO BEAVS!** I
-started my journey here at OSU in 2018 and jumped right into web
-development. I taught myself how to create simple websites using HTML and JS with a touch of CSS. I currently work with OSU Ecampus as a Student Web Developer on their Custom Team. This opportunity has allowed me to hone my development skills.
+My introduction to coding began in high school through my involvement in FIRST Robotics (For Inspiration and Recognition of Science and Technology), where I served as the lead programmer. This role, which was largely self-taught, sparked my fascination with the endless possibilities that coding offers. Robotics opened many doors for me and solidified my passion for technology.
 
-Throughout this experience, I have been able to grasp the fundamental concepts of AGILE methodology, use a framework such as Vue.js, and develop traditional practices when creating and designing a website. Also, I have
-some experience with SQL and database design.
+In my free time, I enjoy developing simple browser games, which has taught me to approach problem-solving with an open mind. The diversity of game types has shown me that there's always more than one way to tackle a problem, which is a big part of why I love being a developer. Beyond coding, I have a deep appreciation for the outdoors, writing, and gaming.
 
-I first became introduced into coding in high school when I joined FIRST Robotics (For Inspiration and Recognition of Science and Technology). I was the lead programmer who was mostly self-taught. I realized all that you can do with code and it really intrigued me. My involvement in robotics as opened up endless opportunities. It has helped me find my passion in technology.
+# Work Experience
 
-On my free time, I like to develop simple games that are easily played through the
-browser. As they say, practice, practice, practice. Diving into different type of games has allowed me to be open minded about how to solve a problem. I've realized that there are various ways to solve just one problem and I think this is why I have enjoyed being a developer. The never-ending possibilities excite me. I love to learn and get more experience where I can. Aside from coding, I enjoy the outdoors such as hiking, fishing, and camping. I also am into writing and gaming.
+## Oregon State University Ecampus
 
-## Experience
+### Student Web Developer
 
-### Work
+Upon starting college, I sought out opportunities to gain web development experience and secured a position as a Student Web Developer at Oregon State University Ecampus. Throughout my academic career, I immersed myself in the dynamics of a web team. My responsibilities included following the AGILE software development methodology for team projects, developing educational interactives using the Vue framework and Bootstrap, managing version control with Git and GitHub, and designing illustrations as SVGs in Adobe Illustrator.
 
-I was offered a job at Oregon State Univeristy's Ecampus program. I am still employed there as of today going on my third year being a web developer. My tasks as a web developer consists of following AGILE software development methodology for team projects, developing educational interactives with the Vue framework, maintaining the front-end and back-end of a web application, and designing illustrations as SVGs in Adobe Illustrator.
-<br>
-<br>
-I have worked closesly with Bootstrap 5 as our main source of CSS design for quick and easy development. Within my position at OSU Ecampus, I have learned how team and project management works and what it might look like in a variety of different settings. I am familiar with Github and other similar applications. I currently maintain and create web multimedia resources for online courses at OSU.
+### Analyst Programmer
+
+After graduating, I transitioned into a contracted role as a Program Analyst at Oregon State University Ecampus. Leveraging my experience as a student developer, I took on greater responsibilities and contributed to over 50 projects over five years. My role expanded to include conducting requirement gathering, attending project meetings with instructors and instructional designers to ensure project scope alignment, creating and maintaining project documentation, and providing support for the web team.
 
 ![OSU Ecampus](media/ecampus.png)
 
-### Outreach
+## UniCreatives - Web Developer
 
-#### Intel Coding Assistant
+I am currently a Web Developer at UniCreatives, LLC, a startup focused on providing a platform for emerging talent, including students and alumni, to find work opportunities. In this role, I am responsible for developing and maintaining the company website, creating and updating content, and collaborating with the team to ensure we meet project milestones. We are gearing up to launch for our first round of beta testers.
+
+# Work Projects
+
+## Atlas
+
+Atlas is a timeline map interactive where a user can submit an event, giving a description and media if any. Once submitted, it will populate in the list sidebar and when selected it will highlight that particular region on the map.
+
+<br>
+
+<img class="media-container" src="media/atlas.gif">
+
+## Phylogenetic Tree
+
+This interactive allows the user to edit/insert new nodes into the phylogenetic tree. Where the tree shows the evolutionary relationships between biological species and organisms based on physical and genetic characteristics. This application takes advantage of the **[D3.js](https://d3js.org/)** Javascript Library.
+
+<br>
+
+<img class="media-container" src="media/tree.gif">
+
+## Glossary
+
+Glossary is a simple interactive where the user may enter terms and definitions. An admin, such as an instructor, can approve, edit, or remove entries. These entries may be exported via Google Sheets if the admin would like to save all entries.
+
+<br>
+
+<img class="media-container" src="media/glossary.gif">
+
+# Personal Projects
+
+## Pokédex Database
+
+This application was created with Vue and Bootstrap 5. I originally created this Pokédex Database of Generation 1 Pokémon as an assignment for a class. I added more content such as being able to view more info about the selected Pokémon. The user has the ability to filter by name or Pokédex number in either ascending or descending order. Also, they can use the search bar to quickly look up a Pokémon.
+
+<a href="https://github.com/kenzieryann7/vue-pokedex" target="_blank" class="button" style="margin-bottom: 1rem">GitHub Repo</a>
+
+<img class="media-container" src="media/pokedex.gif">
+
+## Asset Creation
+
+I have a small collection of assets that I have created for various projects. These assets include spaceships, characters, and other miscellaneous items. I have created these assets using Adobe Illustrator. I have also created a few animations using Adobe After Effects.
+
+<br>
+
+<img class="media-container" src="media/ship-showcase.png">
+
+# Outreach
+
+## Intel Coding Assistant
 
 I volunteered with an Intel reachout program within my school district that teaches 4th and 5th grade girls how to code through fun activities using a site called **[Scratch](https://scratch.mit.edu/about)**. Scratch is a block-based visual programming language made to help children understand the fundamentals of coding. I believe that this experience helped me better understand the basics of coding because teaching code brings a different perspective of learning.
 
-#### Robotics Mentor/Volunteer
+## Robotics Mentor/Volunteer
 
 My involvement with FIRST Robotics has also brought an abundance of volunteering opportunities. I worked alongside with our elementary and middle school robotics teams as a code mentor. I helped them in the development process of basic coding and help them indentify issues by debugging. I also was a volunteer for their competitions that were affiliated with FIRST, helping all competing teams with code debugging and any questions they may of have.
 
 ![FIRST Robotics](media/robotics.gif)
 
-## Work Projects
+# Resume
 
-### Atlas
+<a href="media/documents/resume-2024.pdf" download class="button">Download Resume</a>
 
-Atlas is a timeline map interactive where a user can submit an event, giving a description and media if any. Once submitted, it will populate in the list sidebar and when selected it will highlight that particular region on the map.
 
-![Atlas Visual](media/atlas.gif)
+# Contact Me
 
-### Phylogenetic Tree
-
-This interactive allows the user to edit/insert new nodes into the phylogenetic tree. Where the tree shows the evolutionary relationships between biological species and organisms based on physical and genetic characteristics. This application takes advantage of the **[D3.js](https://d3js.org/)** Javascript Library.
-
-![Phylogenetic Tree Visual](media/tree.gif)
-
-### Glossary
-
-Glossary is a simple interactive where the user may enter terms and definitions. An admin, such as an instructor, can approve, edit, or remove entries. These entries may be exported via Google Sheets if the admin would like to save all entries.
-
-![Glossary Visual](media/glossary.gif)
-
-## Personal Projects
-
-### Pokédex Database
-
-This application was created with Vue and Bootstrap 5. I originally created this Pokédex Database of Generation 1 Pokémon as an assignment for a class. I added more content such as being able to view more info about the selected Pokémon. The user has the ability to filter by name or Pokédex number in either ascending or descending order. Also, they can use the search bar to quickly look up a Pokémon.
-<br>
-**[Github Repo](https://github.com/kenzieryann7/vue-pokedex)**
-
-![Pokédex Database Visual](media/pokedex.gif)
-
-### Pulsar
-An incremental idle game played through your web browser. Still currently in development.
-
-**Spaceships created using Adobe Illustrator**
-![Spaceship Showcase](media/ship-showcase.png)
-
-<h3>*MORE COMING SOON*</h3>
-
-## Résumé
-
-![Résumé](media/resume.PNG)
-
-<a href="media/resume.png" download>
-  Download Résumé
-</a>
-
-## Contact Me
-
-**Phone**
-<br>
-(541) 936-6439
-<br>
 **Email**
 <br>
 makenzienoggle@gmail.com

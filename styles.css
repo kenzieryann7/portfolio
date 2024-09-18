@@ -1,0 +1,29 @@
+.button {
+    display: inline-block; 
+    padding: 10px 20px; 
+    background-color: #007bff; 
+    color: white !important; 
+    text-decoration: none !important;
+    border-radius: 5px; 
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+.img-border {
+    float: right; 
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black; 
+    margin: 2rem
+}
+
+.media-container {
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+    
+    
+}
