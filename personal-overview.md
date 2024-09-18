@@ -25,8 +25,8 @@ My involvement with FIRST Robotics has also brought an abundance of volunteering
 
 ### Links
 
-<a href="https://github.com/kenzieryann7" target="_blank"><img src="/media/github-logo.png"  class="media-button" style="margin-right: 10px"/></a>
-<a href="https://www.linkedin.com/in/makenzie-noggle/" target="_blank"><img src="/media/linkedin.png"  class="media-button"/></a>
+<a href="https://github.com/kenzieryann7" target="_blank"><img src="media/github-logo.png"  class="media-button" style="margin-right: 10px"/></a>
+<a href="https://www.linkedin.com/in/makenzie-noggle/" target="_blank"><img src="media/linkedin.png"  class="media-button"/></a>
 
 ## Contact me
 
