@@ -4,11 +4,11 @@
 
 # Hey there!
 
-# I'm Makenzie Noggle.
+# I'm Makenzie.
 
 > Portfolio
 
-- JS, Vue, C/C++, SQL, Adobe Illustrator, Bootstrap
+- Vue.js, Bootstrap, JS, C/C++, HTML/CSS, Adobe Illustrator
 - AGILE Project Management
 
 [Continue](#introduction)
